@@ -1,6 +1,7 @@
 ### About me
 
-- Debian Develoer
-- Working on [Constellation ACADA framework](https://constellation.pages.desy.de/)
-- Programming in Python and C++
-- Big fan of [Meson](https://mesonbuild.com/) as a C++ build system
+- PhD candidate @ DESY & Uni Bonn
+- Debian Developer
+- Working on the [Constellation Control and DAQ framework](https://constellation.pages.desy.de/)
+- Mainly programming in Python and C++
+- My favorite C++ build system is [Meson](https://mesonbuild.com/)
